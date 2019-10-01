@@ -1,0 +1,5 @@
+﻿Project Title: Classifying Loan Applications by Applying Machine Learning Algorithms 
+Team members
+Daniel Albert, Chichi Christine
+Description of the Problem
+When issuing a loan to an individual, banks must assess a wide variety of factors in order to reach their decision.  Some are rather obvious, such as their past loan history and current income.  New points of consideration however have been introduced by the quickening pace of technology.  Banks have traditionally used an application scorecard in order to assess impartially.  However the human filling it in is still susceptible to mistakes and bias.  By implementing machine learning, banks can maintain algorithms suitable for large amounts of changing data.  The work previously done by humans will be performed with less expense and fewer opportunities for bias, thus relegating them to supervisory roles.  Denied users seeking to use their Right to Explanation can be quickly and accurately pointed to the arbitrating factor.  Both the creditor and consumer benefit.
